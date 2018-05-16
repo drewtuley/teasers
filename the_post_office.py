@@ -1,4 +1,4 @@
-# After a local Post Office burglary, five suspects were being interview.
+# After a local Post Office burglary, five suspects were being interviewed.
 # Below is a summary of their statements.
 # Police know that each of them told the truth in one of their statements and lied in the other.
 # From this information can you tell who committed the crime?
